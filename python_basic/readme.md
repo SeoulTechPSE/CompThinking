@@ -1,7 +1,7 @@
 ## 파이썬 - 기초편 (참고문헌: 윤성우의 열혈 파이썬)
 
 
-* [Chapter 01. 파이썬에게 질문하기](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/python_basic/blob/master/ch01.ipynb)
+* [Chapter 01. 파이썬에게 질문하기](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_basic/ch01.ipynb)
 * [Chapter 02. 간단한 함수 만들기](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_basic/ch02.ipynb)
 * [Chapter 03. 프로그램 사용자로부터의 입력 및 코드의 반복](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_basic/ch03.ipynb)
 * [Chapter 04. int형 데이터와 float형 데이터](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_basic/ch04.ipynb)
