@@ -8,4 +8,4 @@
 
 ## Jupyter Notebook
 
-* [주피터 노트북 사용법](https://github.com/SeoulTechPSE/CompThinking/blob/master/00_jupyter_notebook.ipynb)
+* [주피터 노트북 사용법](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/00_jupyter_notebook.ipynb)
