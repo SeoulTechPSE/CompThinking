@@ -6,7 +6,7 @@
 
 * [파이썬 중급](https://github.com/SeoulTechPSE/CompThinking/blob/master/python_intermediate/readme.md)
 
-* [파이썬 A_to_Z](https://github.com/SeoulTechPSE/CompThinking/blob/master/python_another)
+* [파이썬 A_to_Z](https://github.com/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z)
 
 ## Jupyter Notebook
 
