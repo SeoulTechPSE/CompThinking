@@ -8,6 +8,8 @@
 
 * [파이썬 A_to_Z](https://github.com/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z)
 
+* [파이썬 기타](https://github.com/SeoulTechPSE/CompThinking/blob/master/python_serious)
+
 ## Jupyter Notebook
 
 * [주피터 노트북 사용법](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/00_jupyter_notebook.ipynb)
