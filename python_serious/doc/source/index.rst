@@ -8,8 +8,11 @@ Welcome to sphinx_tutorial's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
-
+   :caption: Markdown tutorial:
+  
+   markdown_tutor/markdown_tutor1.md
+   markdown_tutor/markdown_tutor2.md
+   README.md
 
 
 Indices and tables
