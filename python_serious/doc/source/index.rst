@@ -8,11 +8,17 @@ Welcome to sphinx_tutorial's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Markdown A:
 
    markdown_tutor/markdown_tutor1.md
    markdown_tutor/markdown_tutor2.md
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Markdown B:
+   
+   markdown_tutor/markdown_tutor2.md
+   markdown_tutor/markdown_tutor1.md
 
 
 Indices and tables
