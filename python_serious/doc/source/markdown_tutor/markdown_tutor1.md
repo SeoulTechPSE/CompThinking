@@ -1,4 +1,4 @@
-# MarkDown tutorial
+# Markdown tutorial
 
 - Hello, Sphinx
 - Hello, MarkDown
