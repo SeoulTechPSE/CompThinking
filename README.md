@@ -8,7 +8,7 @@
 
 * [파이썬 A_to_Z](https://github.com/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z)
 
-* [파이썬 기타](https://github.com/SeoulTechPSE/CompThinking/blob/master/python_serious)
+* [파이썬 serious](https://github.com/SeoulTechPSE/CompThinking/blob/master/python_serious)
 
 ## Jupyter Notebook
 
