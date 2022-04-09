@@ -9,10 +9,10 @@ for i in range(10):
     print(i)
 ```
 
+> 인용문
+
 **볼드체** 그리고 _이탤릭체_
 
 그리고 `빨간색 강조`
-
-> 서울과학기술대학교
 
 $$\displaystyle \int_0^\infty f(x) \\; dx$$
