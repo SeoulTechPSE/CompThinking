@@ -19,6 +19,12 @@ Welcome to sphinx_tutorial's documentation!
 
    markdown_tutor/markdown_tutor3.md
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Python AutoDoc Example:   
+
+   modules
+
 
 Indices and tables
 ==================
