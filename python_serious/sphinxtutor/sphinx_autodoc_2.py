@@ -26,8 +26,31 @@ class TwicePrint(object):
             >>> TwicePrint('Hello, Sphinx').twice_print()
             'Hello, Sphinx Hello, Sphinx'
         
-        :returns str: s + ' ' + s
+        :returns str: ``s + ' ' + s``
         """
         return self._s + ' ' + self._s
-    
+
+
+class Car(object):
+    """API 변경사항 문서화하기 예제
+    """
+
+    def turn_left(self):
+        """Turn the car left
+        
+        .. deprecated:: 0.0.1
+        Use :func:`turn` instead with the direction argument set to left
+        """    
+
+        self.turn(direction='left')
+
+    def turn(self, direction):
+        """Turn the car in some direction
+        
+        :param direction: The direction to turn to
+        :type direction: str
+        """
+
+        # 이곳에 turn 함수의 실제 소스 코드를 작성합니다
+        pass
      

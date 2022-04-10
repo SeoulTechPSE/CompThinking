@@ -17,6 +17,7 @@
 
    .. autosummary::
    
+      Car
       TwicePrint
    
    
