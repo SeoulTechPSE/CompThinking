@@ -24,7 +24,7 @@ class Math(object):
 
         예제:
 
-            >>> Math(1, 2).add()
+            >>> Math(1, 2).sum()
             3
         
         :returns int: a + b 에 대한 결과

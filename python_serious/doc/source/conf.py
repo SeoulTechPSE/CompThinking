@@ -36,9 +36,13 @@ extensions = ['myst_parser',
               'sphinx.ext.mathjax', 
               'sphinx-mathjax-offline',
               'sphinx.ext.autodoc',
-              'sphinx.ext.autosummary']
+              'sphinx.ext.autosummary',
+              'sphinx.ext.doctest']
 
 autosummary_generate = True
+doctest_global_setup='''
+from sphinxtutor.sphinx_autodoc import *
+from sphinxtutor.sphinx_autodoc_2 import *'''
 
 source_suffix = {
     '.rst': 'restructuredtext',

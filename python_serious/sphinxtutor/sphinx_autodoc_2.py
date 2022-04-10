@@ -26,7 +26,7 @@ class TwicePrint(object):
             >>> TwicePrint('Hello, Sphinx').twice_print()
             'Hello, Sphinx Hello, Sphinx'
         
-        :returns str: s + s
+        :returns str: s + ' ' + s
         """
         return self._s + ' ' + self._s
     
