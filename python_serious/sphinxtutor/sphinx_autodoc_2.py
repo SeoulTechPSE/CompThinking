@@ -7,6 +7,7 @@ Revision History
 -----------------
  * [2022/04/10] - 예제 모듈 작성    
 """
+import warnings
 
 class TwicePrint(object):
     """문자열을 받아 두 번 출력하는 클래스
@@ -37,11 +38,11 @@ class Car(object):
 
     def turn_left(self):
         """Turn the car left
-        
-        .. deprecated:: 0.0.1
-        Use :func:`turn` instead with the direction argument set to left
-        """    
 
+        .. deprecated:: 0.0.1
+        Use :func:`turn` instead with the direction argument set to left        
+        """    
+        warnings.warn('turn_left is deprecated; use turn instead', DeprecationWarning)
         self.turn(direction='left')
 
     def turn(self, direction):
@@ -51,6 +52,5 @@ class Car(object):
         :type direction: str
         """
 
-        # 이곳에 turn 함수의 실제 소스 코드를 작성합니다
-        pass
+        print(f'turn {direction}')
      
