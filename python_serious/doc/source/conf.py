@@ -38,6 +38,8 @@ extensions = ['myst_parser',
               'sphinx.ext.autodoc',
               'sphinx.ext.autosummary']
 
+autosummary_generate = True
+
 source_suffix = {
     '.rst': 'restructuredtext',
     '.txt': 'markdown',

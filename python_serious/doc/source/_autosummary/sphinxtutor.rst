@@ -1,0 +1,23 @@
+﻿sphinxtutor
+===========
+
+.. automodule:: sphinxtutor
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+   
+   
+   
+
+
+

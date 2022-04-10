@@ -25,6 +25,12 @@ Welcome to sphinx_tutorial's documentation!
 
    modules
 
+.. autosummary::
+   :toctree: _autosummary
+
+   sphinxtutor.sphinx_autodoc
+   sphinxtutor.sphinx_autodoc_2  
+
 
 Indices and tables
 ==================
