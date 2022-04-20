@@ -12,5 +12,8 @@
 
 ## Jupyter Notebook
 
-* [주피터 노트북 사용법](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/00_jupyter_notebook.ipynb)
 * [Colab 사용법](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/00_Colab.ipynb)
+* [주피터 노트북 사용법](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/00_jupyter_notebook.ipynb)
+
+* [Numpy](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/01_numpy.ipynb)
+
