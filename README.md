@@ -17,3 +17,4 @@
 
 * [Numpy](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/01_numpy.ipynb)
 
+* [Matplotlib](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/02_matplotlib.ipynb)
