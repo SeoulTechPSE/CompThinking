@@ -1,4 +1,4 @@
-## 파이썬 - 중급편 (참고문헌: 윤성우의 열혈 파이썬)
+## Python - Intermediate
 
 * [**Story 00**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_intermediate/story_00.ipynb)
   * 기초편에서 언급하지 않은 기초들
@@ -76,3 +76,5 @@
 * [**Story 35**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_intermediate/story_35.ipynb)
 
   * 컨텍스트 메니저
+
+###참고문헌: 윤성우의 열혈 파이썬 - 중급편
