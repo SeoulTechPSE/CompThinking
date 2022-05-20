@@ -1,5 +1,4 @@
-## 파이썬 - 기초편 (참고문헌: 윤성우의 열혈 파이썬)
-
+## Python - Basic
 
 * [Chapter 01. 파이썬에게 질문하기](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_basic/ch01.ipynb)
 * [Chapter 02. 간단한 함수 만들기](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_basic/ch02.ipynb)
@@ -15,3 +14,5 @@
 * [Chapter 12. 딕셔너리](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_basic/ch12.ipynb)
 * [Chapter 13. 클래스와 객체](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_basic/ch13.ipynb)
 * [Chapter 14. 예외처리](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_basic/ch14.ipynb)
+
+참고문헌: 윤성우의 열혈 파이썬 - 기초편
