@@ -11,41 +11,35 @@
 - [**09. 여러 문장을 묶어 반복 실행하기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/09_여러_문장을_묶어_반복_실행하기.ipynb)
 - [**10. 여러 조건에 따라 기능 선택하기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/10_여러_조건에_따라_기능_선택하기.ipynb)
 - [**11. 함수 정의하기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/11_함수_정의하기.ipynb)
-- [\*\*\*\*](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/)
-- [\*\*\*\*](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/)
-- [\*\*\*\*](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/)
-- [\*\*\*\*](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/)
-- [\*\*\*\*](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/)
-
-12*함수*입력*데이터*처리하기.ipynb
-13*클래스*정의하기.ipynb
-14*클래스와*개체*구조*알아보기.ipynb
-15*특별한*내장*클래스*알아보기.ipynb
-16*최상위*클래스\_object.ipynb
-17*숫자*클래스*모듈*알아보기.ipynb
-18*문자열*클래스*알아보기.ipynb
-19*배열*형태의*자료구조*알아보기.ipynb
-20*색인*검색과*정렬*알아보기.ipynb
-21*집합과*딕셔너리*클래스.ipynb
-22*컴프리헨션*알아보기.ipynb
-23*재귀*함수와*합성*함수*처리하기.ipynb
-24*함수를*표현식으로*처리하기.ipynb
-25*함수*안에*함수*정의하기.ipynb
-26*함수*객체의*속성*사용하기.ipynb
-27*함수를*사용한*데코레이터*알아보기.ipynb
-28*모듈(module)*작성*알아보기.ipynb
-29*클래스를*생성하는*메타*클래스.ipynb
-30*객체의*생명주기.ipynb
-31*다양한*메소드*이해하기.ipynb
-32*연속해서*실행하는*체인*구성하기.ipynb
-33*스페셜*메소드*알아보기.ipynb
-34*상속*이해하기.ipynb
-35*객체의*사용*관계*이해하기.ipynb
-36*클래스*다형성*알아보기.ipynb
-37*반복*처리하는*클래스*알아보기.ipynb
-38*데코레이터(Decorator)*확장하기.ipynb
-39*보호*속성과*디스크립터*처리하기.ipynb
-40*추상*클래스*알아보기.ipynb
-41*예외*경고*단언*처리*알아보기.ipynb
-42*표준*입출력*알아보기.ipynb
-43*파일\*읽고\_쓰기.ipynb
+- [**12. 함수 입력 데이터 처리하기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/12_함수_입력_데이터_처리하기.ipynb)
+- [**13. 클래스 정의하기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/13_클래스_정의하기.ipynb)
+- [**14. 클래스와 개체 구조 알아보기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/14_클래스와_개체_구조_알아보기.ipynb)
+- [**15. 특별한 내장 클래스 알아보기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/15_특별한_내장_클래스_알아보기.ipynb)
+- [**16. 최상위 클래스 object**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/16_최상위_클래스_object.ipynb)
+- [**17. 숫자 클래스 모듈 알아보기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/17_숫자_클래스_모듈_알아보기.ipynb)
+- [**18. 문자열 클래스 알아보기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/18_문자열_클래스_알아보기.ipynb)
+- [**19. 배열 형태의 자료구조 알아보기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/19_배열_형태의_자료구조_알아보기.ipynb)
+- [**20. 색인 검색과 정렬 알아보기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/20_색인_검색과_정렬_알아보기.ipynb)
+- [**21. 집합과 딕셔너리 클래스**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/21_집합과_딕셔너리_클래스.ipynb)
+- [**22. 컴프리헨션 알아보기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/22_컴프리헨션_알아보기.ipynb)
+- [**23. 재귀 함수와 합성 함수 처리하기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/23_재귀_함수와_합성_함수_처리하기.ipynb)
+- [**24. 함수를 표현식으로 처리하기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/24_함수를_표현식으로_처리하기.ipynb)
+- [**25. 함수 안에 함수 정의하기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/25_함수_안에_함수_정의하기.ipynb)
+- [**26. 함수 객체의 속성 사용하기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/26_함수_객체의_속성_사용하기.ipynb)
+- [**27. 함수를 사용한 데코레이터 알아보기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/27_함수를_사용한_데코레이터_알아보기.ipynb)
+- [**28. 모듈(module) 작성 알아보기**](<https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/28_모듈(module)_작성_알아보기.ipynb>)
+- [**29. 클래스를 생성하는 메타 클래스**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/29_클래스를_생성하는_메타_클래스.ipynb)
+- [**30. 객체의 생명주기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/30_객체의_생명주기.ipynb)
+- [**31. 다양한 메소드 이해하기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/31_다양한_메소드_이해하기.ipynb)
+- [**32. 연속해서 실행하는 체인 구성하기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/32_연속해서_실행하는_체인_구성하기.ipynb)
+- [**33. 스페셜 메소드 알아보기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/33_스페셜_메소드_알아보기.ipynb)
+- [**34. 상속 이해하기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/34_상속_이해하기.ipynb)
+- [**35. 객체의 사용 관계 이해하기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/35_객체의_사용_관계_이해하기.ipynb)
+- [**36. 클래스 다형성 알아보기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/36_클래스_다형성_알아보기.ipynb)
+- [**37. 반복 처리하는 클래스 알아보기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/37_반복_처리하는_클래스_알아보기.ipynb)
+- [**38. 데코레이터(Decorator) 확장하기**](<https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/38_데코레이터(Decorator)_확장하기.ipynb>)
+- [**39. 보호 속성과 디스크립터 처리하기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/39_보호_속성과_디스크립터_처리하기.ipynb)
+- [**40. 추상 클래스 알아보기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/40_추상_클래스_알아보기.ipynb)
+- [**41. 예외 경고 단언 처리 알아보기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/41_예외_경고_단언_처리_알아보기.ipynb)
+- [**42. 표준 입출력 알아보기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/42_표준_입출력_알아보기.ipynb)
+- [**43. 파일 읽고 쓰기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/43_파일_읽고_쓰기.ipynb)
