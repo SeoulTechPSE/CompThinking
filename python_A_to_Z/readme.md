@@ -1,6 +1,6 @@
-## Python - Intermediate
+## Python - A to Z
 
-* [**Story 00**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_intermediate/story_00.ipynb)
+* [**01**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/01_변수는_식별자이며_상태를_관리한다.ipynb)
   * 기초편에서 언급하지 않은 기초들
 
 * [**Story 01-03**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_intermediate/story_01_03.ipynb)
