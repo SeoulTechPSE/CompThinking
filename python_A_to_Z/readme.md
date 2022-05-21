@@ -5,7 +5,6 @@
 - [**03. 표현식과 문장을 평가한다**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/03_표현식과_문장을_평가한다.ipynb)
 - [**04. 객체를 생성한 클래스가 자료형이다**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/04_객체를_생성한_클래스가_자료형이다.ipynb)
 - [**05. 문장 꾸미기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/05_문장_꾸미기.ipynb)
-  04*객체를*생성한*클래스가*자료형이다.ipynb)
 - [**06. 문서화와 주석으로 꾸미기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/06_문서화와_주석으로_꾸미기.ipynb)
 - [**07. 할당 및 기타 문장 처리하기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/07_할당_및_기타_문장_처리하기.ipynb)
 - [**08. 조건 판단에 따른 문장 선택하기**](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/python_A_to_Z/08_조건_판단에_따른_문장_선택하기.ipynb)
