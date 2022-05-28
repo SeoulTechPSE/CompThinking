@@ -22,3 +22,9 @@
 * [Matplotlib](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/02_matplotlib.ipynb)
 
 * [Pandas](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/03_pandas.ipynb)
+
+
+## Interesting Subjects
+
+* [Draw the Mandelbrot Set in Python](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/Draw_the_Mandelbrot_Set_in_Python.ipynb)
+
