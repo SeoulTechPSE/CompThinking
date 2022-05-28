@@ -28,6 +28,5 @@
 
 * [Draw the Mandelbrot Set in Python](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/Draw_the_Mandelbrot_Set_in_Python.ipynb)
 
-* [Double Pendulum Animation]
-(https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/Double_Pendulum_Animation.ipynb)
+* [Double Pendulum Animation](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/Double_Pendulum_Animation.ipynb)
 
