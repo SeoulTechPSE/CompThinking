@@ -30,3 +30,4 @@
 
 * [Double Pendulum Animation](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/Double_Pendulum_Animation.ipynb)
 
+* [Sympy](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/04_sympy.ipynb)
