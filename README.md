@@ -31,4 +31,4 @@
 
 * [Double Pendulum Animation](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/Double_Pendulum_Animation.ipynb)
 
-* [JavaScript Notebook Diagrammer](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/js_diagrammers.ipynb)
+* [Notebook Javascript Diagrammer](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/js_diagrammers.ipynb)
