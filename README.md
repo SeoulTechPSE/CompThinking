@@ -27,7 +27,7 @@
 
 ## Extra Tutoirals
 
-* [Bokeh](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/02_bokeh/4_sympy.ipynb](https://seoultech.notion.site/Bokeh-Tutorial-8f1a6452858e41caac93f3633fc72004)
+* [Bokeh](https://seoultech.notion.site/Bokeh-Tutorial-8f1a6452858e41caac93f3633fc72004)
 
 
 ## Interesting Subjects
