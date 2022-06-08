@@ -25,6 +25,11 @@
 * [Sympy](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/04_sympy.ipynb)
 
 
+## Extra Tutoirals
+
+* [Bokeh]([https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/02_bokeh/4_sympy.ipynb](https://seoultech.notion.site/Bokeh-Tutorial-8f1a6452858e41caac93f3633fc72004))
+
+
 ## Interesting Subjects
 
 * [Draw the Mandelbrot Set in Python](https://colab.research.google.com/github/SeoulTechPSE/CompThinking/blob/master/Draw_the_Mandelbrot_Set_in_Python.ipynb)
